@@ -20,7 +20,7 @@ Nexx is a SaaS platform that allows users to easily collect and analyze feedback
   
 ## Linking to Nexx Reusable Web Component
 
-This SaaS platform is designed to integrate seamlessly with the [**Nexx Reusable Web Component**](https://github.com/yourusername/nexx-web-component). You can use this component to collect feedback directly on your website, which is managed and analyzed via the SaaS dashboard.
+This SaaS platform is designed to integrate seamlessly with the [**Nexx Reusable Web Component**](https://github.com/pranav-js670/Nexx-Web-Component.git). You can use this component to collect feedback directly on your website, which is managed and analyzed via the SaaS dashboard.
 
 ## Installation
 
@@ -51,13 +51,13 @@ DATABASE_URL=your-postgres-database-url
 npm run dev
 ```
 
-5. Open ```bash http://localhost:3000 ``` to view the application.
+5. Open http://localhost:3000 to view the application.
 
 ## Usage
 
 1. After setting up the platform, log in to manage feedback, view analytics, and customize the feedback widget.
 
-2. Embed the web component from the Nexx Web Component ```bash https://github.com/pranav-js670/Nexx-Web-Component.git ``` repository into your website to start collecting feedback.
+2. Embed the web component from the Nexx Web Component repository into your website to start collecting feedback.
 
 ### License
 
